@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zwe Marn Htay</h1>
 <h3 align="center">A passionate software developer from Terra</h3>
 
-- 🌱 I’m currently learning **.NET Framework**
+- 🌱 I’m currently learning **.NET Core**
 
 - 💬 Ask me about **backend**
 
