@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Zwe Marn Htay</h1>
 <h3 align="center">A passionate software developer from Burma</h3>
 
 - 💬 Ask me about **backend**
